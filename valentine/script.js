@@ -1,6 +1,6 @@
 const alternatives = [
     {text:"", images:"images/cat-01.gif"},
-    {text:"私を愛していますか？", images:"images/cat-02.gif"},
+    {text:"シアノこと好きじゃないの？", images:"images/cat-02.gif"},
     {text:"もう一度考えて", images:"images/cat-03.gif"},
     {text:"さあ、あえてイエスと言いましょう", images:"images/cat-04.gif"},
     {text:"恐れないでください", images:"images/cat-05.gif"}
